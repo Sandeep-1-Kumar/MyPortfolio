@@ -5,7 +5,7 @@ import { Github, Linkedin, Mail, Twitter } from 'lucide-react';
 const socialLinks = [
   { icon: Github, href: "https://github.com/Sandeep-1-Kumar" },
   { icon: Linkedin, href: "https://www.linkedin.com/in/sandeepsutharapu" },
-  { icon: Mail, href: "mailto:contact@example.com" }
+  { icon: Mail, href: "mailto:sandeepsutharapu18896@gmail.com" }
 ];
 
 const footerVariants = {
@@ -41,7 +41,7 @@ export default function Footer() {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.5 }}
           >
-            © {new Date().getFullYear()} John Doe. All rights reserved.
+            © {new Date().getFullYear()} Sandeep Kumar Sutharapu. All rights reserved.
           </motion.p>
         </div>
       </div>

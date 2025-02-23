@@ -15,7 +15,7 @@ const experience = [
   },
   {
     title: "Senior Consultant",
-    company: "Capgemini",
+    company: "Capgemini Technology Services India Limited",
     year: "2021 - 2022",
     client:"Client: Becton Dickinson | Novelis Aditya Birla",
     description: "The project focused on quality analysis and data integration of metal alloys across systems, utilizing message queues (MQ) for data migration. I developed custom Java solutions and implemented a framework for Mule APIs and Java microservices to ensure seamless integration between diverse technologies. Designed and developed API architecture, integrating technologies such as IBM MQ, SAP, Oracle DB, MFT, and RESTful services to facilitate data exchange between systems. ",
@@ -24,7 +24,7 @@ const experience = [
   },
   {
     title: "Senior Systems Engineer",
-    company: "Infosys ",
+    company: "Infosys Technologies Private Limited",
     year: "2019 - 2021",
     client:"Client: Johnson Controls Inc",
     description: "In this project, I was responsible for developing MuleSoft interfaces to enable seamless interoperability between various data storage systems and customer service applications. I spearheaded the migration of a Java-based application to a MuleSoft-backed architecture and implemented internal frameworks for API development.Maintained API architecture using the API-led connectivity approach facilitating the seamless integration of SAP, Salesforce, and Oracle databases",
