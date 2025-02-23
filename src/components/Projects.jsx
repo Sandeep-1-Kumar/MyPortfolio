@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { ExternalLink, Github } from 'lucide-react';
-import polyglotImage from '../assets/polyglot.png';
+import polyglotImage from '../assets/Polyglot.png';
 import ifsImg from '../assets/IFS.jpg';
 import asta from '../assets/asta.jpg';
 import FDAU from '../assets/FDAU.jpg';
