@@ -6,7 +6,8 @@ import polyglotImage from '../assets/Polyglot.png';
 import ifsImg from '../assets/IFS.jpg';
 import asta from '../assets/asta.jpg';
 import FDAU from '../assets/FDAU.jpg';
-
+import OFS from '../assets/OFS.jpg';
+import db from '../assets/db.jpg';
 const projects = [
   {
     title: "POLYGLOT",
@@ -30,12 +31,27 @@ const projects = [
     github: "https://github.com/Sandeep-1-Kumar/IndianLudo_AstaChamma"
   },
   {
+    title: "OFS-MealReportApp",
+    description:"Core business logic and functionalities were developed server-side. The mobile app’s UI was developed with a focus on real-time data handling. The application was deployed using Docker and hosted on Render, with seamless communication across teams",
+    image: OFS,
+    tech: ["Java","Flutter", "Firebase", "Docker", "Render"],
+    github: "https://github.com/Sandeep-1-Kumar/OFS-MealReportApp"
+  },
+  {
     title: "Flight-Data-Acquisition-unit",
     description: "Designed Software Architecture for a real-time Flight Data Acquisition system is designed for aviation, enabling high-speed sensor data ingestion at 10MB/s while retaining all data for 10 hours using a FIFO approach.",
     image: FDAU,
     tech: [],
     github: "https://github.com/Sandeep-1-Kumar/Flight-Data-Acquisition-unit"
+  },
+  {
+    title: "DB interface",
+    description: "Spring Boot backend for data retrieval and CSV file uploads, using JPA and Hibernate with MySQL. The React.js frontend allowed users to select semesters, upload CSV files, and view tabulated data, integrated with Bootstrap for a polished UI",
+    image: db,
+    tech: ["Java","Spring Boot", "JPA", "MySQL", "React.js"],
+    github: "https://github.com/Sandeep-1-Kumar/DataBaseInterface"
   }
+ 
 ];
 
 const containerVariants = {
